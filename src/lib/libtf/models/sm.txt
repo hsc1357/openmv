@@ -1,3 +1,4 @@
-chair
-drum
+coin
+tape
+cutter
 unknown
